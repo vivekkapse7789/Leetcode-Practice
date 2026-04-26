@@ -28,4 +28,16 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/vivekkapse7789/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0065-valid-number](https://github.com/vivekkapse7789/Leetcode-Practice/tree/master/0065-valid-number) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vivekkapse7789/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vivekkapse7789/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vivekkapse7789/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
